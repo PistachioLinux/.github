@@ -1,6 +1,6 @@
 # Pistachio Linux
 
-<img src="./pistachiobanner.png" />
+<img src="https://github.com/PistachioLinux/.github/profile/pistachiobanner.png" />
 
 Pistachio Linux is a WSL-only, Debian based Linux distro with an innovative twist.
 
